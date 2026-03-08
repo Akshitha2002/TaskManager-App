@@ -1,0 +1,13 @@
+C:\TaskManagerApp\TaskManager-App\Backend\TaskManager.API\publish\TaskManager.API.exe
+C:\TaskManagerApp\TaskManager-App\Backend\TaskManager.API\publish\appsettings.Development.json
+C:\TaskManagerApp\TaskManager-App\Backend\TaskManager.API\publish\appsettings.json
+C:\TaskManagerApp\TaskManager-App\Backend\TaskManager.API\publish\TaskManager.API.dll
+C:\TaskManagerApp\TaskManager-App\Backend\TaskManager.API\publish\TaskManager.API.deps.json
+C:\TaskManagerApp\TaskManager-App\Backend\TaskManager.API\publish\TaskManager.API.runtimeconfig.json
+C:\TaskManagerApp\TaskManager-App\Backend\TaskManager.API\publish\TaskManager.API.pdb
+C:\TaskManagerApp\TaskManager-App\Backend\TaskManager.API\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\TaskManagerApp\TaskManager-App\Backend\TaskManager.API\publish\Microsoft.EntityFrameworkCore.dll
+C:\TaskManagerApp\TaskManager-App\Backend\TaskManager.API\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TaskManagerApp\TaskManager-App\Backend\TaskManager.API\publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\TaskManagerApp\TaskManager-App\Backend\TaskManager.API\publish\Microsoft.OpenApi.dll
+C:\TaskManagerApp\TaskManager-App\Backend\TaskManager.API\publish\Scalar.AspNetCore.dll
