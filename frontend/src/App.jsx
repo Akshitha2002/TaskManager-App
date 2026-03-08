@@ -6,7 +6,7 @@ function App() {
   const [newTaskTitle, setNewTaskTitle] = useState("");
 
   // IMPORTANT: Make sure 5216 matches the port your C# backend is running on!
-  const API_URL = "http://mytaskmanagerapi.runasp.net/tasks";
+  const API_URL = "https://mytaskmanagerapi.runasp.net/tasks";
 
   // Fetches tasks when the page loads
   useEffect(() => {
